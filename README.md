@@ -2,6 +2,8 @@
 
 ![photo_2017-12-24_03-34-20](https://user-images.githubusercontent.com/35546281/35172288-06825c86-fd35-11e7-9207-8d74cb036f97.jpg)
 
+## Description
+
 One theme to rule them all!
 
 Soft dark blue theme with sky blue and white elements. The theme looks gorgeous on any android device!
