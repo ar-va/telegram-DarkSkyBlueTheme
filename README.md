@@ -20,4 +20,4 @@ Telegram channel with the updates - www.t.me/DarkSkyBlueTheme
 * Preview the theme and press "APPLY".
 
 Preview pane is going to look more or less like this:
-![2018-01-19 17 04 24](https://user-images.githubusercontent.com/35546281/35173840-eec1f074-fd3a-11e7-885f-f8ed8c3a89b8.png)
+![2018-01-19 17 04 24](https://user-images.githubusercontent.com/35546281/35174177-655737a2-fd3c-11e7-8cd6-aa5024cd759f.png)
