@@ -10,16 +10,16 @@ Soft dark blue theme with sky blue and white elements. The theme looks gorgeous 
 
 The theme is made yet only for Android client.
 
-Telegram channel with the updates - www.t.me/DarkSkyBlueTheme
+Telegram channel with the latest updates - www.t.me/DarkSkyBlueTheme
 
 ## Installation
 
 * Go to the [Release](https://github.com/ar-va/telegram-DarkSkyBlueTheme/releases) page and find the latest release.
 * Download `Dark-Sky-Blue-vX.X.attheme` file.
-* Send it to yourself in Telegram via Saved Messages.
-* Download the file on Telegram using your phone.
+* Send it to yourself in Telegram via **Saved Messages**.
+* Download the file on Telegram using your Android device.
 * When the file is downloaded, click on the file icon.
-* Preview the theme and press "APPLY".
+* Preview the theme and press **"APPLY"**.
 
 Preview pane is going to look more or less like this:
 
