@@ -12,9 +12,12 @@ Telegram channel with the updates - www.t.me/DarkSkyBlueTheme
 
 ## Installation
 
-* Find the latest release of Dark Sky Blue theme.
+* Go to the [Release](https://github.com/ar-va/telegram-DarkSkyBlueTheme/releases) page and find the latest release.
 * Download `Dark Sky Blue vX.X.attheme` file.
-* Send it to yourself in Telegram.
-* Download the file on your phone.
-* Click on the file icon.
-* Preview the theme and press "Apply Theme".
+* Send it to yourself in Telegram via Saved Messages.
+* Download the file on Telegram using your phone.
+* When the file is downloaded, click on the file icon.
+* Preview the theme and press "APPLY".
+
+Preview pane is going to look more or less like this:
+![2018-01-19 17 04 24](https://user-images.githubusercontent.com/35546281/35173840-eec1f074-fd3a-11e7-885f-f8ed8c3a89b8.png)
