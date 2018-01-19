@@ -18,5 +18,3 @@ Telegram channel with the updates - www.t.me/DarkSkyBlueTheme
 * Download the file on your phone.
 * Click on the file icon.
 * Preview the theme and press "Apply Theme".
-
-```The theme will be applied to your Android device.```
