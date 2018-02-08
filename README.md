@@ -1,6 +1,7 @@
 # Dark Sky Blue Theme for Telegram on Android devices!
 
-![photo_2017-12-24_03-34-20](https://user-images.githubusercontent.com/35546281/35172288-06825c86-fd35-11e7-9207-8d74cb036f97.jpg)
+![final-edited](https://user-images.githubusercontent.com/35546281/35949711-e5ee0112-0c40-11e8-8c8e-15f5affbb1c2.png)
+
 
 ## Description
 
