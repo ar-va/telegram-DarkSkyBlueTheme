@@ -24,4 +24,4 @@ Telegram channel with the latest updates - www.t.me/DarkSkyBlueTheme
 
 Preview pane is going to look more or less like this:
 
-![2018-01-19 17 04 24](https://user-images.githubusercontent.com/35546281/35174177-655737a2-fd3c-11e7-8cd6-aa5024cd759f.png)
+![theme-preview](https://user-images.githubusercontent.com/35546281/35949885-c84e04b2-0c41-11e8-89da-8c92afee0250.png)
